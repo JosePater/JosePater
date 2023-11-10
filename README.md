@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScrip, Angular, Svelte, Java, Python, SQL**
 
-- 📫 How to reach me **josepater_1130@hotmail.com**
+- 📫 How to reach me **josepaternina.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
